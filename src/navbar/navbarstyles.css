@@ -1,0 +1,26 @@
+.body {
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu {
+
+    display: flex;
+}
+.menu button {
+    border: none;
+    background-color: transparent;
+    font-size: 14px;
+    padding: 10px;
+}
+.menu button:hover {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.logo {
+    font-size: 45px;
+    font-weight: 900;
+    font-style: italic;
+}

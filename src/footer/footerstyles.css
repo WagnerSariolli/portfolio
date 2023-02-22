@@ -1,0 +1,39 @@
+.containerfooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #131313;
+    margin-top: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.containerfooter a {
+    text-decoration: none;
+    color: white;
+}
+.containerfooter a:hover {
+    text-decoration: underline;
+}
+.containerfooterbody {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    max-width: 1240px;
+    color: white;
+}
+
+.LogoFooter {
+    height: 180px;
+}
+.descricaofootercontainer {
+    text-align: center;
+    background-color: #131313;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+}
+.descricaofootercontainer div {
+    font-size: 45px;
+    font-weight: 900;
+    font-style: italic;
+}

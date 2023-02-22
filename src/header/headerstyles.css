@@ -1,0 +1,18 @@
+.container {
+    background-image: url("./headerback.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container div {
+    max-width: 600px;
+}
+.ImageHeader {
+    max-height: 400px;
+}
+.title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

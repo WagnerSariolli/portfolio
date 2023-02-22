@@ -1,0 +1,16 @@
+.aprecontent {
+    display: flex;
+    background-image: url('./backgroundaboutme.png');
+    background-size: cover;
+    padding: 30px;
+    border: 2px solid black;
+}
+.aprecontent h1 {
+    font-weight: 900;
+}
+.ImageApre {
+    width: 80%;
+}
+.aprecontent div {
+    width: 50%;
+}
